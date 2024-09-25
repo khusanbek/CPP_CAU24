@@ -1,0 +1,31 @@
+15:02 22/09/2024
+
+week 1
+environment setup, hello world programs, syntax of languages C++, Java, PHP;
+
+week 2
+running programs on C++, Java, PHP. Hello world running, using basic if-else statements;
+
+Theory
+- variables;
+- data types;
+- constant variables;
+- conditionals: if, if-else, nested if, nested if-else, switch;
+- arithmetic;
+- while loop;
+- errors and warnings;
+
+week 3
+theory
+- for-loop, do-while loop;
+- array; 
+- supported data types in C++;
+- functions;
+- operator precedence;
+
+implementation
+- all conditionals: if, if-else, else-if-else, nested if, if-else
+- local vs global variables and constants with different data types;
+- functions;
+- namespace;
+
