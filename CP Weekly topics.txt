@@ -29,3 +29,10 @@ implementation
 - functions;
 - namespace;
 
+week 4
+
+- operators (focus on modulus) with for loop;
+- Number guessing program;
+- Random number generating concept;
+- ternary operator;
+
