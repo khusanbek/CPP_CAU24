@@ -1,9 +1,9 @@
 15:02 22/09/2024
 
-week 1
+week 2
 environment setup, hello world programs, syntax of languages C++, Java, PHP;
 
-week 2
+week 3
 running programs on C++, Java, PHP. Hello world running, using basic if-else statements;
 
 Theory
@@ -15,7 +15,7 @@ Theory
 - while loop;
 - errors and warnings;
 
-week 3
+week 4
 theory
 - for-loop, do-while loop;
 - array; 
@@ -29,10 +29,30 @@ implementation
 - functions;
 - namespace;
 
-week 4
+week 5
 
 - operators (focus on modulus) with for loop;
 - Number guessing program;
 - Random number generating concept;
 - ternary operator;
 
+week 6
+
+- assignment review;
+- Calculator App in OOP approach;
+- FuelCostCalculatorApp Java based, in OOP approach;
+
+week 7
+
+- mid-term 25 questions;
+- break, continue statements;
+- logical operators;
+- cube, square functions;
+- variable scope;
+- random with library usage;
+
+week 9
+
+- craps simulation;
+- functions: factorial, Fibonacci with recursion;
+- header file, maximum template;
