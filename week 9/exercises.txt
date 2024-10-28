@@ -1,0 +1,12 @@
+Exercises
+
+- create a four arithmetic functions and make use of them;
+- print hello world several times with recursive function call;
+- create BMI calculator program;
+- simulate openbudget project by generating vote count randomly;
+- write a program that calculates total score of IELTS by inputting listening, speaking, reading and writing band scores;
+- write a program that predicts cost of usd or household items or groceries etc based on some random input taken;
+- create a program that generates unique student ID as 2017711507, where 2017 is enrolled year, 7 is school code, 11 is department code and 507 is serial unique number;
+- create a program that generates simple interest on loan;
+- create a compound interest program;
+- try to write a program that generates random of 7 numbers in particular range and asks person to guess them in left to right order. You can clear the console screen with call to system clear. If order of numbers guessed is correct, user wins otherwise lost, may try again;
