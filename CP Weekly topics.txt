@@ -56,3 +56,14 @@ week 9
 - craps simulation;
 - functions: factorial, Fibonacci with recursion;
 - header file, maximum template;
+
+week 10
+- characters and strings
+- pointers
+- classes and objects
+- two dimensional arrays
+
+week 11
+- classes: attributes, methods
+- structs
+- vectors
