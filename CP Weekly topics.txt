@@ -58,13 +58,15 @@ week 9
 - header file, maximum template;
 
 week 10
-- characters and strings
 - pointers
 - classes and objects
 - pass by reference: pointer function
-- two dimensional arrays
 
 week 11
+- characters and strings
 - classes: attributes, methods
 - structs
+
+week 12
 - vectors
+- two dimensional arrays
