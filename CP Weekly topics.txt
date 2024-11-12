@@ -66,6 +66,7 @@ week 11
 - characters and strings
 - classes: attributes, methods
 - structs
+https://www.geeksforgeeks.org/structure-vs-class-in-cpp/
 
 week 12
 - vectors
