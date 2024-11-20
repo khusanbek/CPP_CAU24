@@ -69,5 +69,9 @@ week 11
 https://www.geeksforgeeks.org/structure-vs-class-in-cpp/
 
 week 12
-- vectors
+- OOP: constructor, setters, getters, printInfo 
 - two dimensional arrays
+- passing one dimensional arrays as argument to function
+
+week 13
+vectors
