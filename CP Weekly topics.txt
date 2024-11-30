@@ -75,3 +75,7 @@ week 12
 week 13
 - vectors
 - operator overloading through class
+
+week 14
+- vectors: declaring with initializer list, accessing, vector array declaration, vector traversing;
+- inheritance: Concrete -> Block is a relationship
