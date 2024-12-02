@@ -2,6 +2,8 @@
 #include <iostream>
 #include <string>
 
+#include "Concrete.h"
+
 using namespace std;
 
 class Block : public Concrete {
