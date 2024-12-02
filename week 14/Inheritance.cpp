@@ -1,5 +1,4 @@
 
-#include "Concrete.h"
 #include "Block.h"
 
 int main() {
